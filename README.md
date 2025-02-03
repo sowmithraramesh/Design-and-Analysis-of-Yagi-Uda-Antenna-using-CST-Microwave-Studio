@@ -18,39 +18,43 @@ The primary aim of this experiment is to:
 ### **Mathematical Calculation**
 
 - **Operating frequency (f)**: 200 MHz
-- **Wavelength (λ)**: \( \lambda = \frac{c}{f} = \frac{3 \times 10^8}{200 \times 10^6} = 1.5 \, \text{m} \).
+- Operating frequency (f) = 200 MHz
 
-#### **Element Length Calculations**:
-- **Driven Element (La)**:
-  - \( L_a = 0.416 \, \text{m} \)
-  - Scaled length: \( L_a = 0.416 \times 1.5 = 0.624 \, \text{m} \)
+Wavelength (λ) = c / f
+                = (3 × 10^8 m/s) / (200 × 10^6 Hz)
+                = 1.5 m
+
+Element Length Calculations:
+- Driven Element (La):
+  La = 0.416 m
+  Scaled length: La = 0.416 × 1.5 = 0.624 m
   
-- **Director Element (Ly)**:
-  - \( L_y = 0.475 \, \text{m} \)
-  - Scaled length: \( L_y = 0.475 \times 1.5 = 0.7125 \, \text{m} \)
+- Director Element (Ly):
+  Ly = 0.475 m
+  Scaled length: Ly = 0.475 × 1.5 = 0.7125 m
 
-- **Additional Element Lengths**:
-  - \( L_{a1} = 0.44 \, \text{m} \)
-  - Scaled length: \( L_{a1} = 0.44 \times 1.5 = 0.66 \, \text{m} \)
+Additional Element Lengths:
+- L_a1 = 0.44 m
+  Scaled length: L_a1 = 0.44 × 1.5 = 0.66 m
   
-  - \( L_{a2} = 0.44 \, \text{m} \)
-  - Scaled length: \( L_{a2} = 0.44 \times 1.5 = 0.66 \, \text{m} \)
+- L_a2 = 0.44 m
+  Scaled length: L_a2 = 0.44 × 1.5 = 0.66 m
 
-  - \( L_{a3} = 0.43 \, \text{m} \)
-  - Scaled length: \( L_{a3} = 0.43 \times 1.5 = 0.645 \, \text{m} \)
+- L_a3 = 0.43 m
+  Scaled length: L_a3 = 0.43 × 1.5 = 0.645 m
 
-#### **Spacing Between Elements**:
-- \( S = 0.251 \, \text{m} \)
-- \( S = 0.375 \, \text{m} \)
-- \( S = 0.311 \, \text{m} \)
-- Scaled spacing: \( S = 0.31 \times 1.5 = 0.465 \, \text{m} \)
+Spacing Between Elements:
+- S = 0.251 m
+- S = 0.375 m
+- S = 0.311 m
+  Scaled spacing: S = 0.31 × 1.5 = 0.465 m
 
-#### **Other Parameters**:
-- **Spacing distance (d)**: \( d = 0.011 \, \text{m} \)
-- **Element spacing (a)**: \( a = 0.01 \times 1.5 = 0.015 \, \text{m} \)
+Other Parameters:
+- Spacing distance (d) = 0.011 m
+- Element spacing (a) = 0.01 × 1.5 = 0.015 m
 
-#### **Length of Away**:
-- Length calculated as \( 1.5 \times 15 = 2.25 \, \text{m} \).
+Length of Away:
+Length = 1.5 × 15 = 2.25 m
 
 ## **Procedure**
 ### **Step 1: Setting Up CST Studio Suite**
